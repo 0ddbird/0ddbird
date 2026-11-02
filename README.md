@@ -34,4 +34,4 @@ Before writing code, I spent 9 years in sales roles, including 4 at **CodinGame*
 ### Get in touch
 
 - **Website**: [mahasamut.app](https://mahasamut.app)
-- **LinkedIn**: [linkedin.com/in/giacomollinares](https://www.linkedin.com/in/giacomollinares)
+- **LinkedIn**: [linkedin.com/in/gllinares](https://www.linkedin.com/in/gllinares)
